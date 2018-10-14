@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-ts-debk",
+  "version": "1.0.0",
+  "description": "Starter files and support materials for the Pluralsight course: \"Angular with TypeScript\"",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.1.3"
+  },
+  "devDependencies": {
+    "@types/angular": "1.6.49",
+    "@types/angular-mocks": "^1.7.0",
+    "@types/angular-resource": "^1.5.14",
+    "@types/angular-route": "^1.7.0"
+  },
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeborahK/Angular-TypeScript/issues"
+  },
+  "homepage": "https://github.com/DeborahK/Angular-TypeScript#readme"
+}
